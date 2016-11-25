@@ -1,0 +1,10 @@
+C:\Users\Linguistico\Desktop\PROGETTO HTML\PROGETTO HTML\bin\Debug\PROGETTO HTML.exe.config
+G:\Progetto_HTML-master\PROGETTO HTML\PROGETTO HTML\bin\Debug\PROGETTO HTML.exe.config
+G:\Progetto_HTML-master\PROGETTO HTML\PROGETTO HTML\bin\Debug\PROGETTO HTML.exe
+G:\Progetto_HTML-master\PROGETTO HTML\PROGETTO HTML\bin\Debug\PROGETTO HTML.pdb
+G:\Progetto_HTML-master\PROGETTO HTML\PROGETTO HTML\obj\Debug\PROGETTO HTML.csprojResolveAssemblyReference.cache
+G:\Progetto_HTML-master\PROGETTO HTML\PROGETTO HTML\obj\Debug\PROGETTO_HTML.Properties.Resources.resources
+G:\Progetto_HTML-master\PROGETTO HTML\PROGETTO HTML\obj\Debug\PROGETTO HTML.csproj.GenerateResource.Cache
+G:\Progetto_HTML-master\PROGETTO HTML\PROGETTO HTML\obj\Debug\PROGETTO HTML.exe
+G:\Progetto_HTML-master\PROGETTO HTML\PROGETTO HTML\obj\Debug\PROGETTO HTML.pdb
+G:\Progetto_HTML-master\PROGETTO HTML\PROGETTO HTML\obj\Debug\PROGETTO_HTML.Form1.resources
